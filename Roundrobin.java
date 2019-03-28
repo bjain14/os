@@ -1,5 +1,5 @@
 
-package javaapplication1;
+package Roundrobin;
 
 import java.util.Scanner;
 
